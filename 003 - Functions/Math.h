@@ -1,9 +1,3 @@
-/*
- * Math.h
- *
- *  Created on: 10 janv. 2023
- *      Author: G005872
- */
 
 #ifndef MATH_H_
 #define MATH_H_
