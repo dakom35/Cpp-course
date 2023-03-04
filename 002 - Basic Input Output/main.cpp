@@ -1,9 +1,4 @@
-/*
- * main.cpp
- *
- *  Created on: 23 déc. 2022
- *      Author: g005872
- */
+
 #include <iostream>
 #include <ios>
 int main()
