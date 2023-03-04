@@ -1,9 +1,3 @@
-/*
- * main.cpp
- *
- *  Created on: 11 janv. 2023
- *      Author: G005872
- */
 #include <string>
 #include <iostream>
 
