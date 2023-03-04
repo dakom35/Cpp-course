@@ -1,10 +1,3 @@
-/*
- * Math.cpp
- *
- *  Created on: 10 janv. 2023
- *      Author: G005872
- */
-
 #include "Math.h"
 
 
